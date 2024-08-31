@@ -1,0 +1,20 @@
+display:
+  foundInRaidText: "FoundInRaid"
+  newQuestText: " &6&oNEW!"
+  inProgressText: " &oActive "
+  acceptQuestUIText: "&6ACCEPT"
+  completeQuestUIText: "&6COMPLETE"
+  backUIText: "&lBACK"
+  infoUIText: "&lINFO"
+  infoMessageText: "Quest [%questName%] information:"
+  failMessageText: "Quest [%questName%] failed!"
+  subtaskCompleteText: "Subtask complete!"
+  plantItemMessageText: "Planting item: %plantTime%"
+  plantItemCancelText: "Planting canceled"
+  plantItemCompleteText: "Planting complete!"
+  ItemLoreMaxLengthUI: 12
+
+tickTimer: 20
+checkItemSpawnRadius: 50
+checkItemSpawnTimerTicks: 10
+respawnItemDelay: 100

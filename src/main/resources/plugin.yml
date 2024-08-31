@@ -1,0 +1,10 @@
+name: ShockerQuestSystem
+version: '${project.version}'
+main: bymrshocker.shockerquestsystem.ShockerQuestSystem
+api-version: '1.21'
+commands:
+  sqs:
+    description: sav stuff
+    usage: /<command>
+    permission: sqs.admin
+    permission-message: You do not have permission to use that.
